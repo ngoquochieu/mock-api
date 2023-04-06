@@ -1,0 +1,14 @@
+{
+  "name": "Mook-API",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.3",
+    "nodemon": "^2.0.22"
+  }
+}
